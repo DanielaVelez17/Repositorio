@@ -1,0 +1,7 @@
+Entrar a phpmyadmin:
+usuario: root
+clave:	root
+
+Usuario acceso a la BD
+usuario: ruleta
+clave:	ruleta

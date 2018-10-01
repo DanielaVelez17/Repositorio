@@ -1,0 +1,20 @@
+Instalación:
+1. Instalar WAMP SERVER en su máquina http://www.wampserver.es/
+2. Entrar a http://localhost/phpmyadmin/ (Tener en cuenta)
+3. Entrar a phpmyadmin:
+	usuario: root
+	clave:	root 
+	ó
+	Entrar a phpmyadmin:
+	usuario: root
+	clave:	
+4. Importar los scripts que están en la carpeta Database, para crear la base de datos y las tablas.
+5. Una vez ya tenga creada la base de datos, crear una cuenta de usuario para acceder a ella.
+	   Nombre de Usuario = ruleta
+	   Nombre de Hosto = localhost
+	   Contraseña = ruleta
+6. Darle todos los privilegios y darle permiso para acceder la base de datos ruleta.
+7. Para ejecutar, ubicar la carpeta Prueba en el directorio C:\wamp64\www o C:\wamp\www (según como lo tenga instalado).
+8. Abra el navegador y escriba en la url http://localhost/Prueba
+
+	   
